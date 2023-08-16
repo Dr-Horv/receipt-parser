@@ -1,0 +1,11 @@
+{
+  "name": "receipt-parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.67",
+    "prettier": "^3.0.2",
+    "typescript": "^5.1.6"
+  }
+}
