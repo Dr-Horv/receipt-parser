@@ -2,7 +2,7 @@
  * Main entry point
  */
 const main = () => {
-  console.log("Hello 4");
+  console.log("Hello " + 11);
   // src/Parser.ts
   Parser.run();
 };
